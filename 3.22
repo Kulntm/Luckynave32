@@ -161,7 +161,7 @@ version.BackgroundTransparency = 1.000
 version.Position = UDim2.new(0, 120, 0, 66)
 version.Size = UDim2.new(0.582110107, -12, 0, 18)
 version.Font = Enum.Font.Code
-version.Text = "Ver: 3.0.0"
+version.Text = "Ver: 3.2.0"
 version.TextColor3 = Color3.fromRGB(174, 174, 174)
 version.TextSize = 15.000
 version.TextStrokeTransparency = 0.000
@@ -193,7 +193,7 @@ status.TextXAlignment = Enum.TextXAlignment.Left
 
 divider_2.Name = "divider"
 divider_2.Parent = innergroup
-divider_2.BackgroundColor3 = Color3.fromRGB(2, 105, 172)
+divider_2.BackgroundColor3 = Color3.fromRGB(10, 201, 10)
 divider_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 divider_2.Position = UDim2.new(0, 0, 0, -2)
 divider_2.Size = UDim2.new(0.999000013, 0, 0, 1)
