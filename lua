@@ -267,7 +267,7 @@ togglebutton.Text = ""
 togglebutton.TextColor3 = Color3.fromRGB(0, 0, 0)
 togglebutton.TextSize = 14.000
 togglebutton.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Kulntm/Luckynave/main/v3.2", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Kulntm/Luckynave/main/V6", true))()
 	game.CoreGui.loader:Destroy()
 end)
 
